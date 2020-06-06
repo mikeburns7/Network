@@ -167,6 +167,6 @@ line vty 0 4
  transport input none
 !
 no scheduler allocate
-!1
+!
 end
 
