@@ -162,7 +162,7 @@ line con 0
  exec-timeout 0 0
 line aux 0
 line vty 0 4
- password Fireeye123!
+ password ]*****
  login
  transport input none
 !
